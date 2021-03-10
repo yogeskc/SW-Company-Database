@@ -11,7 +11,7 @@ to the one in the below:
 
 | Milestone/Version |    Date    |
 | ----------------- | ---------- |
-|       M1V1        | 06/07/2020 |
+|       M1V1        | 03/09/2020 |
 
 ## Table of Contents
 
