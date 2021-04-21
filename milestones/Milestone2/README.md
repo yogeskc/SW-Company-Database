@@ -20,7 +20,7 @@ to understand the design and architecture of your database system.
 
 | Milestone/Version |    Date    |
 | ----------------- | ---------- |
-|       M2          | 07/15/2020 |
+|       M2          | 07/15/2020  |
 |       M1          | 06/25/2020 |
 
 ***Note: the dates on the "Date" column are not the real deadlines of the milestones. I made them up to illustrate the concept***
