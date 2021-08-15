@@ -7,8 +7,6 @@
 | Milestone #2             |        completed           |
 | Course Project           |        completed           |
 
-
-***Please read carefully all the guidelines described in this README file. 
 # General Milestones Guidelines:
 
 * This Project  implemented two mandatory milestones; The Conceptual and Relational Models.
