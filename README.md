@@ -1,5 +1,5 @@
 #  Database Systems - MYSQL
- Database Systems!. 
+ Database Systems 
   
 | Milestone                |   Status                   |
 | ------------------------ | -------------------------- |
